@@ -99,6 +99,25 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/ceilsd`][@stdlib/math/base/special/ceilsd]: round a numeric value to the nearest number toward positive infinity with N significant figures.
+-   [`@stdlib/math/base/special/floorsd`][@stdlib/math/base/special/floorsd]: round a numeric value to the nearest number toward negative infinity with N significant figures.
+-   [`@stdlib/math/base/special/roundsd`][@stdlib/math/base/special/roundsd]: round a numeric value to the nearest number with N significant figures.
+-   [`@stdlib/math/base/special/trunc`][@stdlib/math/base/special/trunc]: round a double-precision floating-point number toward zero.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -153,6 +172,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-truncsd/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/ceilsd]: https://github.com/stdlib-js/math-base-special-ceilsd
+
+[@stdlib/math/base/special/floorsd]: https://github.com/stdlib-js/math-base-special-floorsd
+
+[@stdlib/math/base/special/roundsd]: https://github.com/stdlib-js/math-base-special-roundsd
+
+[@stdlib/math/base/special/trunc]: https://github.com/stdlib-js/math-base-special-trunc
+
+<!-- </related-links> -->
 
 </section>
 
