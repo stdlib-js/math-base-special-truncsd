@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-truncsd",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "Round a numeric value to the nearest number toward zero with N significant figures.",
   "license": "Apache-2.0",
   "author": {
