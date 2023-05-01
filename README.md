@@ -24,14 +24,30 @@ limitations under the License.
 
 > Round a numeric value to the nearest number toward zero with `n` significant figures.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/math-base-special-truncsd
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@deno/mod.js';
+var truncsd = require( '@stdlib/math-base-special-truncsd' );
 ```
 
 #### truncsd( x, n\[, b] )
@@ -73,8 +89,8 @@ var v = truncsd( 0.0313, 2, 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@deno/mod.js';
+var randu = require( '@stdlib/random-base-randu' );
+var truncsd = require( '@stdlib/math-base-special-truncsd' );
 
 var x;
 var y;
@@ -117,7 +133,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -161,7 +177,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
@@ -179,13 +195,13 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/special/ceilsd]: https://github.com/stdlib-js/math-base-special-ceilsd/tree/deno
+[@stdlib/math/base/special/ceilsd]: https://github.com/stdlib-js/math-base-special-ceilsd
 
-[@stdlib/math/base/special/floorsd]: https://github.com/stdlib-js/math-base-special-floorsd/tree/deno
+[@stdlib/math/base/special/floorsd]: https://github.com/stdlib-js/math-base-special-floorsd
 
-[@stdlib/math/base/special/roundsd]: https://github.com/stdlib-js/math-base-special-roundsd/tree/deno
+[@stdlib/math/base/special/roundsd]: https://github.com/stdlib-js/math-base-special-roundsd
 
-[@stdlib/math/base/special/trunc]: https://github.com/stdlib-js/math-base-special-trunc/tree/deno
+[@stdlib/math/base/special/trunc]: https://github.com/stdlib-js/math-base-special-trunc
 
 <!-- </related-links> -->
 
