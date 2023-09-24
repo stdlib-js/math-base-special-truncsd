@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@esm/index.mjs';
+import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@v0.1.0-esm/index.mjs';
 ```
 
 #### truncsd( x, n\[, b] )
@@ -90,7 +90,7 @@ var v = truncsd( 0.0313, 2, 2 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@esm/index.mjs';
+import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@v0.1.0-esm/index.mjs';
 
 var x;
 var y;
