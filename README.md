@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-truncsd/tags). For example,
+
+```javascript
 import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@v0.2.0-deno/mod.js';
 ```
 
@@ -85,7 +90,7 @@ var v = truncsd( 0.0313, 2, 2 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@v0.2.0-deno/mod.js';
+import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@deno/mod.js';
 
 var x;
 var y;
