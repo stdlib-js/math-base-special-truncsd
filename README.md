@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@deno/mod.js';
+import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@v0.3.0-deno/mod.js';
 ```
 
 #### truncsd( x, n, b )
@@ -81,7 +81,7 @@ v = truncsd( 0.0313, 2, 2 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@deno/mod.js';
+import truncsd from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncsd@v0.3.0-deno/mod.js';
 
 var x;
 var y;
