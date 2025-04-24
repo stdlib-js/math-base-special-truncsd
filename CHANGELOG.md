@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-05)
+## Unreleased (2025-04-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cd8ddd0`](https://github.com/stdlib-js/stdlib/commit/cd8ddd053636dd409fdf4fd8ae1e7cd111771262) - **docs:** update related packages sections [(#6801)](https://github.com/stdlib-js/stdlib/pull/6801) _(by stdlib-bot)_
 -   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh, Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`420735c`](https://github.com/stdlib-js/stdlib/commit/420735c6cb64dbc72805be947c9b8204b1f9da10) - **bench:** update random value generation [(#5467)](https://github.com/stdlib-js/stdlib/pull/5467) _(by Karan Anand)_
