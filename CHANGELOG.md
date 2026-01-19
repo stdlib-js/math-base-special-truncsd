@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2026-01-19)
 
 <section class="commits">
 
@@ -12,8 +12,9 @@
 
 <details>
 
+-   [`7ffed96`](https://github.com/stdlib-js/stdlib/commit/7ffed96e4ed10b5ee1a340adc368d27902d54591) - **test:** remove duplicate test cases in `math/base/special` packages _(by Philipp Burckhardt)_
 -   [`cd8ddd0`](https://github.com/stdlib-js/stdlib/commit/cd8ddd053636dd409fdf4fd8ae1e7cd111771262) - **docs:** update related packages sections [(#6801)](https://github.com/stdlib-js/stdlib/pull/6801) _(by stdlib-bot)_
--   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh, Athan Reines)_
+-   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh Yadav, Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`420735c`](https://github.com/stdlib-js/stdlib/commit/420735c6cb64dbc72805be947c9b8204b1f9da10) - **bench:** update random value generation [(#5467)](https://github.com/stdlib-js/stdlib/pull/5467) _(by Karan Anand)_
 
@@ -27,11 +28,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
