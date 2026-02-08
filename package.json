@@ -50,7 +50,8 @@
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/math-base-special-trunc": "^0.2.3",
     "@stdlib/number-float64-base-exponent": "^0.2.3",
-    "@stdlib/utils-library-manifest": "^0.2.4"
+    "@stdlib/utils-library-manifest": "^0.2.4",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/console-log-each-map": "^0.1.0",
