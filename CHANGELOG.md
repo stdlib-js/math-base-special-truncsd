@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-26)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b69f125`](https://github.com/stdlib-js/stdlib/commit/b69f125e64207b556cf745414f2d67b59758b514) - **docs:** add equations [(#14689)](https://github.com/stdlib-js/stdlib/pull/14689) _(by Karan Anand)_
 -   [`b953edd`](https://github.com/stdlib-js/stdlib/commit/b953edd95d0ca1b521d0abbd2c2719d099ff7807) - **refactor:** use `constants/float64/nan` and clean-up [(#13585)](https://github.com/stdlib-js/stdlib/pull/13585) _(by Philipp Burckhardt)_
 -   [`3adbe8a`](https://github.com/stdlib-js/stdlib/commit/3adbe8a17ba4a8ac59a6dbb66085ee84cb78d35d) - **docs:** propagate fixes to sibling packages [(#13133)](https://github.com/stdlib-js/stdlib/pull/13133) _(by Philipp Burckhardt)_
 -   [`39c4de7`](https://github.com/stdlib-js/stdlib/commit/39c4de75a25292c00909cda17a7cb055113e608e) - **bench:** refactor to use string interpolation in `math/base/special` [(#11390)](https://github.com/stdlib-js/stdlib/pull/11390) _(by Karan Anand)_
